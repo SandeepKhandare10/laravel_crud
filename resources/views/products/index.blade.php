@@ -32,7 +32,7 @@
         <tr>
             <th scope="col">Product ID</th>
             <th scope="col">Product Name</th>
-            <th scope="col">Product Qty</th>
+            <th scope="col">Product Quantity</th>
             <th scope="col">Price</th>
             <th scope="col">Description</th>
             <th scope="col">Edit</th>
