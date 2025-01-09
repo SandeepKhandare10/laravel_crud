@@ -14,7 +14,7 @@
 </div>
 
 <div class="d-flex justify-content-end align-items-center mb-3">
-    <a href="{{ route('product.create') }}" class="btn btn-primary mr-3">Create a Product</a><br>
+    <a href="{{ route('product.create') }}" class="btn btn-primary mr-3">Create A Product</a><br>
     <form class="form-inline d-flex align-items-center" action="{{ route('product.index') }}" method="get">
         <input class="form-control mr-sm-2" 
                type="search" 
